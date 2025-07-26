@@ -13,8 +13,11 @@ jobs:
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
+        sudo apt-get install python3-venv
     - name: Run
       run: |
+        python3 -m venv venv
+        source venv/bin/activate
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
