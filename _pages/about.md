@@ -62,18 +62,21 @@ Yigong Hu, Haodong Zheng, Yicheng Liu, Dedong Xie, <strong>Youliang Huang</stron
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33923">SoLA: Leveraging Soft Activation Sparsity and Low-Rank Decomposition for Large Language Model Compression</a>
     <br>
     Xinhao Huang, <strong>You-Liang Huang</strong>, Zeyi Wen
+    <a href="https://github.com/Ppaddington/SoLA"><img src="https://img.shields.io/github/stars/Ppaddington/SoLA?style=social&amp;label=Code+Stars" alt=""></a>
 </li>
 <li>
     <code class="language-plaintext highlighter-rouge">AAAI 2025</code>
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34530">Towards Efficient Low-order Hybrid Optimizer for Language Model Fine-tuning</a>
     <br>
     Minping Chen, <strong>You-Liang Huang</strong>, Zeyi Wen
+    <a href="https://github.com/Chan-1996/LoHO"><img src="https://img.shields.io/github/stars/Chan-1996/LoHO?style=social&amp;label=Code+Stars" alt=""></a>
 </li>
 <li>
     <code class="language-plaintext highlighter-rouge">ICML 2025</code>
     <a href="https://openreview.net/forum?id=acJ3vdFljk">MoE-SVD: Structured Mixture-of-Experts LLMs Compression via Singular Value Decomposition</a>
     <br>
     Wei Li, Lujun Li, Hao Gu, <strong>You-Liang Huang</strong>, Mark G. Lee, Shengjie Sun, Wei Xue, Yike Guo
+    <a href="https://github.com/lliai/MoE-SVD"><img src="https://img.shields.io/github/stars/lliai/MoE-SVD?style=social&amp;label=Code+Stars" alt=""></a>
 </li>
 </ul> 
 </div>
@@ -93,8 +96,8 @@ Yigong Hu, Haodong Zheng, Yicheng Liu, Dedong Xie, <strong>Youliang Huang</stron
 [When Large Vision Language Models Meet Multimodal Sequential Recommendation: An Empirical Study](https://dl.acm.org/doi/10.1145/3696410.3714764)
 
 Peilin Zhou, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao, **You-Liang Huang**, Dading Chong, Junling Liu, Jae Boum Kim, Shoujin Wang, Raymond Chi-Wing Wong, Sunghun Kim
+<a href="https://github.com/PALIN2018/MSRBench"><img src="https://img.shields.io/github/stars/PALIN2018/MSRBench?style=social&amp;label=Code+Stars" alt=""></a>
 
-<a href="https://github.com/PALIN2018/MSRBench"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 - Introduces **MSRBench**, the first benchmark to systematically evaluate the integration of Large Vision Language Models (LVLMs) in multimodal sequential recommendation.
 - Compares five integration strategies (recommender, item enhancer, reranker, and two combinations), identifying **reranker** as the most effective.
 - Constructs the enhanced dataset **Amazon Review Plus**, with LVLM-generated image descriptions to support more flexible item modeling.
@@ -144,7 +147,7 @@ Peilin Zhou, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao
 </div>
 
 # 💁 Professional Services
-- AAAI'26, Program Committee
+- AAAI'26, AAAI'26 (AIA), Program Committee
 - ICLR'25, Reviewer
 - Eurographics'24, Reviewer
 
@@ -165,8 +168,8 @@ Peilin Zhou, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.01 - 2023.10*, [DeepSE Lab](https://www.cse.ust.hk/~hunkim), The Hong Kong University of Science and Technology, China.
-- *2021.11 - 2023.06*, [Institute of System Rheology](https://isr.gzhu.edu.cn), Guangzhou University, China.
+- *2023.01 - 2023.10*, Research Assistant, [DeepSE Lab](https://www.cse.ust.hk/~hunkim), The Hong Kong University of Science and Technology, China.
+- *2021.11 - 2023.06*, Research Assistant, [Institute of System Rheology](https://isr.gzhu.edu.cn), Guangzhou University, China.
 
 # 🗺️ Visitor Map
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=vFIVVM9kTlwKUhv5DzQAHpxJlqJjHR6Oeq4SKS3CKFg&cl=ffffff&w=a"></script>
