@@ -147,7 +147,8 @@ Peilin Zhou, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao
 </div>
 
 # 💁 Professional Services
-- AAAI'26, AAAI'26 (AIA), Program Committee
+- ICLR'26, Reviewer
+- AAAI'26, AAAI'26 (AIA), AAAI'26 (Demo), Program Committee
 - ICLR'25, Reviewer
 - Eurographics'24, Reviewer
 
