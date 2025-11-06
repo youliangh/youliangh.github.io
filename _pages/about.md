@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year student in College of Engineering at Boston University (BU), advised by Prof. <a href="https://yigonghu.github.io/">Yigong Hu</a>.
+I am a first-year Ph.D. student in College of Engineering at Boston University (BU), advised by Prof. <a href="https://yigonghu.github.io/">Yigong Hu</a>.
 
 I earned my master's degree (<strong>MPhil.</strong>) in Data Science and Analytics Thrust (DSA) at The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. <a href="https://zeyiwen.github.io/">Zeyi Wen</a> and co-supervised by Prof. <a href="https://soldierchen.github.io/">Xinyu Chen</a>. Before that, I received my bachelor's degree (<strong>B.Eng.</strong>) at Guangzhou University, where I was fortunate to work closely with Prof. <a href="https://isr.gzhu.edu.cn/info/1316/1319.htm">Xue-Feng Yuan</a> during my junior and senior years.
 
