@@ -51,6 +51,25 @@ Yigong Hu, Haodong Zheng, Yicheng Liu, Dedong Xie, <strong>Youliang Huang</stron
 
 ## Large Language Models
 <div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">DAC 2026</div>
+      <img src='images/paper/DeInfer.png' alt="sym" width="100%">
+    </div>
+  </div>
+  
+<div class='paper-box-text' markdown="1">
+
+DeInfer: Efficient Parallel Inferencing for Decomposed Large Language Models (Coming Soon)
+
+**You-Liang Huang**, Xinhao Huang, Chengxi Liao, Zeyi Wen
+
+- Introduces **DeInfer**, the first work focusing on efficient parallel inferencing for decomposed large language models.
+- Addresses performance bottlenecks in the parallel inference of decomposed LLMs, achiving up to 6.59x speedup on LLaMA-3-70B under 8 GPUs of NVIDIA A800.
+</div> 
+</div>
+<!-- Paper Partition -->
+<div class='paper-box'>
 <ul>
 <li>
     <code class="language-plaintext highlighter-rouge">ICCV 2025</code>
@@ -148,7 +167,7 @@ Peilin Zhou, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao
 </div>
 
 # 💁 Professional Services
-- ICLR'26, Reviewer
+- ICLR'26, ICLR'26 (RSI), Reviewer
 - AAAI'26, AAAI'26 (AIA), AAAI'26 (Demo), Program Committee
 - ICLR'25, Reviewer
 - Eurographics'24, Reviewer
