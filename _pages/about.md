@@ -62,7 +62,7 @@ Yigong Hu, Haodong Zheng, Yicheng Liu, Dedong Xie, <strong>Youliang Huang</stron
 
 [DeInfer: Efficient Parallel Inferencing for Decomposed Large Language Models](https://arxiv.org/abs/2604.17709)
 
-**You-Liang Huang**, Xinhao Huang, Chengxi Liao, Zeyi Wen <a href="https://github.com/youliangh/DeInfer"><img src="https://img.shields.io/github/stars/Chan-1996/LoHO?style=social&amp;label=Code+Stars" alt=""></a>
+**You-Liang Huang**, Xinhao Huang, Chengxi Liao, Zeyi Wen <a href="https://github.com/youliangh/DeInfer"><img src="https://img.shields.io/github/stars/youliangh/DeInfer?style=social&amp;label=Code+Stars" alt=""></a>
 
 - Introduces **DeInfer**, the first work focusing on efficient parallel inferencing for decomposed large language models.
 - Addresses performance bottlenecks in the parallel inference of decomposed LLMs, achiving up to 6.59x speedup on LLaMA-3-70B under 8 GPUs of NVIDIA A800.
