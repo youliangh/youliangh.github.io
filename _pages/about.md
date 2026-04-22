@@ -60,9 +60,9 @@ Yigong Hu, Haodong Zheng, Yicheng Liu, Dedong Xie, <strong>Youliang Huang</stron
   
 <div class='paper-box-text' markdown="1">
 
-DeInfer: Efficient Parallel Inferencing for Decomposed Large Language Models (Coming Soon)
+[DeInfer: Efficient Parallel Inferencing for Decomposed Large Language Models](https://arxiv.org/abs/2604.17709)
 
-**You-Liang Huang**, Xinhao Huang, Chengxi Liao, Zeyi Wen
+**You-Liang Huang**, Xinhao Huang, Chengxi Liao, Zeyi Wen <a href="https://github.com/youliangh/DeInfer"><img src="https://img.shields.io/github/stars/Chan-1996/LoHO?style=social&amp;label=Code+Stars" alt=""></a>
 
 - Introduces **DeInfer**, the first work focusing on efficient parallel inferencing for decomposed large language models.
 - Addresses performance bottlenecks in the parallel inference of decomposed LLMs, achiving up to 6.59x speedup on LLaMA-3-70B under 8 GPUs of NVIDIA A800.
@@ -171,13 +171,6 @@ Peilin Zhou, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao
 - AAAI'26, AAAI'26 (AIA), AAAI'26 (Demo), Program Committee
 - ICLR'25, Reviewer
 - Eurographics'24, Reviewer
-
-# 🎖 Honors and Awards
-- *2023.05* Dean's List and First Price Studentship, Guangzhou University.
-- *2022.11* Dean's List and First Price Studentship, Guangzhou University.
-- *2021.10* Dean's List and First Price Studentship, Guangzhou University.
-- *2021.08* The third price in [Computer System Development Capability Competition](https://os.educg.net/).
-- *2020.11* Dean's List and First Price Studentship, Guangzhou University.
 
 # 📖 Educations
 - *2025.09 - Present*, **Ph.D. student** in Computer Engineering, Boston University.
