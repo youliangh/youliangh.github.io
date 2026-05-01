@@ -24,6 +24,7 @@ I earned my master's degree (<strong>MPhil.</strong>) in Data Science and Analyt
 I used to study data sparsity problems in sequential recommender system and applications of low-rank techniques in large language models, published 6 papers (my google scholar: <a href='https://scholar.google.com/citations?user=7pDl1GsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) on these subjects during my master's research. Now, I am more interested in system reliability for my Ph.D. research, focusing on building a reliable and fast system.
 
 # 🔥 News
+- *2026.04*: &nbsp;📃 Our paper "Representation Drift Compensation: A Zero-Cost Enhancement for LLM Decomposition" got accepted by [ICML 2026](https://icml.cc).
 - *2026.02*: &nbsp;📃 Our paper "DeInfer: Efficient Parallel Inferencing for Decomposed Large Language Models" got accepted by [DAC 2026](https://dac.com/2026).
 - *2025.07*: &nbsp;🎓 Received my master's degree (MPhil. in Data Science and Analytics) at The Hong Kong University of Science and Techonlogy.
 
@@ -71,6 +72,12 @@ Yigong Hu, Haodong Zheng, Yicheng Liu, Dedong Xie, <strong>Youliang Huang</stron
 <!-- Paper Partition -->
 <div class='paper-box'>
 <ul>
+<li>
+    <code class="language-plaintext highlighter-rouge">ICML 2026</code>
+    Representation Drift Compensation: A Zero-Cost Enhancement for LLM Decomposition (to be published)
+    <br>
+    Xinhao Huang, <strong>You-Liang Huang</strong>, Zeyi Wen 
+</li>
 <li>
     <code class="language-plaintext highlighter-rouge">ICCV 2025</code>
     <a href="https://iccv.thecvf.com/virtual/2025/poster/2269">Efficient Fine-Tuning of Large Models via Nested Low-Rank Adaptation</a>
