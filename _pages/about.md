@@ -24,6 +24,7 @@ I earned my master's degree (<strong>MPhil.</strong>) in Data Science and Analyt
 I used to study data sparsity problems in sequential recommender system and applications of low-rank techniques in large language models, published 6 papers (my google scholar: <a href='https://scholar.google.com/citations?user=7pDl1GsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) on these subjects during my master's research. Now, I am more interested in system reliability for my Ph.D. research, focusing on building a reliable and fast system.
 
 # 🔥 News
+- *2026.06*: &nbsp;📃 Our paper "Diagnosing Performance Issues in Application-Defined Resources" got accepted by [OSDI 2026](https://www.usenix.org/conference/osdi26).
 - *2026.05*: &nbsp;✅ Advancing to my Ph.D. Candidacy.
 - *2026.04*: &nbsp;📃 Our paper "Representation Drift Compensation: A Zero-Cost Enhancement for LLM Decomposition" got accepted by [ICML 2026](https://icml.cc).
 - *2026.02*: &nbsp;📃 Our paper "DeInfer: Efficient Parallel Inferencing for Decomposed Large Language Models" got accepted by [DAC 2026](https://dac.com/2026).
@@ -35,16 +36,16 @@ I used to study data sparsity problems in sequential recommender system and appl
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ArXiv</div>
+      <div class="badge">OSDI 2026</div>
       <img src='images/paper/gigiProfiler.jpg' alt="sym" width="100%">
     </div>
   </div>
   
 <div class='paper-box-text' markdown="1">
 
-[gigiProfiler: Diagnosing Performance Issues by Uncovering Application Resource Bottlenecks](https://arxiv.org/abs/2507.06452)
+Diagnosing Performance Issues in Application-Defined Resources (Coming soon)
 
-Yigong Hu, Haodong Zheng, Yicheng Liu, Dedong Xie, <strong>Youliang Huang</strong>, Baris Kasikci
+Yigong Hu, <strong>You-Liang Huang</strong>, Haodong Zheng, Yicheng Liu, Dedong Xie, Baris Kasikci <a href="https://github.com/BlizzardLab/OmniProfiler"><img src="https://img.shields.io/github/stars/BlizzardLab/OmniProfiler?style=social&amp;label=Code+Stars" alt=""></a>
 
 - Introduce **OmniResource Profiling** to track both system-level and application-level resources to comprehensively dignose resource bottlenecks. 
 - Using hybrid LLM-static analysis approach to identify application resources with LLMs and analyze performance bottlenecks with buggy execution.  
