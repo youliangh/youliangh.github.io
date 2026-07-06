@@ -24,6 +24,7 @@ I earned my master's degree (<strong>MPhil.</strong>) in Data Science and Analyt
 I used to study data sparsity problems in sequential recommender system and applications of low-rank techniques in large language models, published 6 papers (my google scholar: <a href='https://scholar.google.com/citations?user=7pDl1GsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) on these subjects during my master's research. Now, I am more interested in system reliability for my Ph.D. research, focusing on building a reliable and fast system.
 
 # 🔥 News
+- *2026.07*: &nbsp;🗣 Invited to give a seminar talk on “Diagnosing Performance Issues in Application-Defined Resources” at [Harvard Systems Group](https://systems.seas.harvard.edu/seminar/2026-07-06-youliang-huang/).
 - *2026.06*: &nbsp;📃 Our paper "Diagnosing Performance Issues in Application-Defined Resources" got accepted by [OSDI 2026](https://www.usenix.org/conference/osdi26).
 - *2026.05*: &nbsp;✅ Advancing to my Ph.D. Candidacy.
 - *2026.04*: &nbsp;📃 Our paper "Representation Drift Compensation: A Zero-Cost Enhancement for LLM Decomposition" got accepted by [ICML 2026](https://icml.cc).
@@ -180,6 +181,9 @@ Peilin Zhou, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao
 - AAAI'26, AAAI'26 (AIA), AAAI'26 (Demo), Program Committee
 - ICLR'25, Reviewer
 - Eurographics'24, Reviewer
+
+# 🗣 Invited Talks
+- *2026.07*, "Diagnosing Performance Issues in Application-Defined Resources", Seminar Talk at [Harvard Systems Group](https://systems.seas.harvard.edu/seminar/2026-07-06-youliang-huang/) 
 
 # 📖 Educations
 - *2025.09 - Present*, **Ph.D. candidate** in Computer Engineering, Boston University.
