@@ -77,9 +77,10 @@ Yigong Hu, <strong>You-Liang Huang</strong>, Haodong Zheng, Yicheng Liu, Dedong 
 <ul>
 <li>
     <code class="language-plaintext highlighter-rouge">ICML 2026</code>
-    Representation Drift Compensation: A Zero-Cost Enhancement for LLM Decomposition (to be published)
+    <a href="https://openreview.net/pdf?id=cNSHGzvmIT">Representation Drift Compensation: A Zero-Cost Enhancement for LLM Decomposition</a>
     <br>
-    Xinhao Huang, <strong>You-Liang Huang</strong>, Zeyi Wen 
+    Xinhao Huang, <strong>You-Liang Huang</strong>, Zeyi Wen
+    <a href="https://github.com/xinhaoH/SVD-Compen"><img src="https://img.shields.io/github/stars/xinhaoH/SVD-Compen?style=social&amp;label=Code+Stars" alt=""></a> 
 </li>
 <li>
     <code class="language-plaintext highlighter-rouge">ICCV 2025</code>
@@ -177,6 +178,8 @@ Peilin Zhou, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao
 </div>
 
 # 💁 Professional Services
+- AAAI'27, Program Committee
+- NeurIPS'26, Reviewer
 - ICLR'26, ICLR'26 (RSI), Reviewer
 - AAAI'26, AAAI'26 (AIA), AAAI'26 (Demo), Program Committee
 - ICLR'25, Reviewer
