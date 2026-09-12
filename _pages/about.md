@@ -178,6 +178,8 @@ Peilin Zhou, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao
 </div>
 
 # 💁 Professional Services
+- WWW'27, Reviewer
+- ICLR'27, Reviewer
 - AAAI'27, Program Committee
 - NeurIPS'26, Reviewer
 - ICLR'26, ICLR'26 (RSI), Reviewer
@@ -192,10 +194,6 @@ Peilin Zhou, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao
 - *2025.09 - Present*, **Ph.D. candidate** in Computer Engineering, Boston University.
 - *2023.09 - 2025.07*, **MPhil.** in Data Science and Analytics, CGA: 3.66(4.3), Hong Kong University of Science and Technology. 
 - *2019.09 - 2023.06*, **B.Eng.** in Network Engineering, GPA: 3.87(4.0), Rank: 2nd(163), Guangzhou University. 
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2023.01 - 2023.10*, Research Assistant, [DeepSE Lab](https://www.cse.ust.hk/~hunkim), The Hong Kong University of Science and Technology, China.
