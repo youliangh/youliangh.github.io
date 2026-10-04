@@ -44,7 +44,7 @@ I used to study data sparsity problems in sequential recommender system and appl
   
 <div class='paper-box-text' markdown="1">
 
-Diagnosing Performance Issues in Application-Defined Resources (Coming soon)
+[Diagnosing Performance Issues in Application-Defined Resources](https://www.usenix.org/conference/osdi26/presentation/hu-yigong)
 
 Yigong Hu, <strong>You-Liang Huang</strong>, Haodong Zheng, Yicheng Liu, Dedong Xie, Baris Kasikci <a href="https://github.com/BlizzardLab/OmniProfiler"><img src="https://img.shields.io/github/stars/BlizzardLab/OmniProfiler?style=social&amp;label=Code+Stars" alt=""></a>
 
