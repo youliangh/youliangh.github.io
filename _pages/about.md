@@ -57,8 +57,8 @@ Yigong Hu, <strong>You-Liang Huang</strong>, Haodong Zheng, Yicheng Liu, Dedong 
 <div class='paper-box'>
 <ul>
 <li>
-<code class="language-plaintext highlighter-rouge">ATC 2026 RigoLLM Workshop</code>
-ESPEON: Verifying the Predestined Execution of Deterministic LLM Inference (Coming soon)
+<code class="language-plaintext highlighter-rouge">SIGOPS-ATC RigoLLM'26 Workshop</code>
+<a href="https://dl.acm.org/doi/10.1145/3858610.3859272">ESPEON: Verifying the Predestined Execution of Deterministic LLM Inference</a>
 <br>
 <strong>You-Liang Huang</strong>, Yi Pan, Cheng Tan, Yigong Hu
 </li>
